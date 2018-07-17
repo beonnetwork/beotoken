@@ -1,0 +1,16 @@
+{
+  "name": "beotoken",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "truffle-ledger-provider": "git+ssh://git@github.com/beonnetwork/truffle-ledger-provider.git#v0.0.4",
+    "zeppelin-solidity": "^1.10.0"
+  }
+}
