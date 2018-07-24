@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "dotenv": "^6.0.0",
+    "truffle-hdwallet-provider": "0.0.5",
     "truffle-ledger-provider": "git+ssh://git@github.com/beonnetwork/truffle-ledger-provider.git#v0.0.4",
     "zeppelin-solidity": "^1.10.0"
   }
